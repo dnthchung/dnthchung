@@ -16,10 +16,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/goilachun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/doanchungnb/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@chunchu_d/featured) 
 
 ### 📈 My Stats:
-![](https://github-readme-stats.vercel.app/api?username=DoanTChung-HE176077&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DoanTChung-HE176077&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dnthchung&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnthchung&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=DoanTChung-HE176077&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dnthchung&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ---
 
