@@ -17,6 +17,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnthchung&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=dnthchung&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ---
