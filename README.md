@@ -15,7 +15,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nestjs,nextjs,express,spring,kotlin,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nestjs,nextjs,express,spring,docker,kotlin,ts)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnthchung&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
