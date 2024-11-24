@@ -3,7 +3,7 @@
 > **Back-End Developer (Internship)**
 
 - Looking for a Web `Back-End` intern position.
-- Final-year student at **`FPT University - Hola Campus`**
+- Final-year student at **`FPT University - Hanoi Campus`**
 - Hardworking, strong in teamwork, and excellent at time management.
 - Meet my cv : [Chung Doan Thanh](https://dnthchung.github.io/myCV/)
 
