@@ -5,7 +5,7 @@
 > - Final-year student at **FPT University - Hola Campus**
 > - Hardworking, strong in teamwork, and excellent at time management.
 
-Passionate about building scalable and efficient web applications using modern technologies. Looking to contribute to impactful projects while continuously learning and growing in a **Node.js** backend position.
+Passionate about building scalable and efficient web applications using modern technologies. Looking to contribute to impactful projects while continuously learning and growing in a **`Node.js`** backend position.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Skills
 
@@ -54,8 +54,6 @@ Passionate about building scalable and efficient web applications using modern t
 - `VS Code` (fav) , `NeoVim` , `WebStorm` , `IntelliJ`
 
 </details>
-
-<br>
 
 <!-- ### 🚀 Projects
 - [**E-Commerce API**](https://github.com/your-project-link): A scalable REST API for an online store using **NestJS** and **MongoDB**.
