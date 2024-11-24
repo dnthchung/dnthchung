@@ -7,8 +7,6 @@
 
 Passionate about building scalable and efficient web applications using modern technologies. Looking to contribute to impactful projects while continuously learning and growing in a **Node.js** backend position.
 
-<br>
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Skills
 
 <details>
