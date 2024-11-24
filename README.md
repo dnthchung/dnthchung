@@ -1,11 +1,10 @@
 ## hi, i'm Chung
 
 > **Back-End Developer (Internship)**
->
-> - Final-year student at **FPT University - Hola Campus**
-> - Hardworking, strong in teamwork, and excellent at time management.
 
-Passionate about building scalable and efficient web applications using modern technologies. Looking to contribute to impactful projects while continuously learning and growing in a **`Node.js`** backend position.
+- Looking for a Web `Back-End` intern position.
+- Final-year student at **`FPT University - Hola Campus`**
+- Hardworking, strong in teamwork, and excellent at time management.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Skills
 
