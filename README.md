@@ -14,13 +14,15 @@
 <details>
 <summary style="margin-bottom: 10px;"><strong>Programming Languages / Knowledge</strong></summary>
 
-- `Java` , `Kotlin`
+- `Java` , `Kotlin - basic`
 - `JavaScript` , `TypeScript`
+- `Dart`
+- `Go - basic`
 
 </details>
 
 <details>
-<summary style="margin-bottom: 10px;"><strong>Frameworks / Libraries</strong></summary>
+<summary style="margin-bottom: 10px;"><strong>Web - Frameworks / Libraries</strong></summary>
 
 - **_Back-end_**: `NestJS` , `ExpressJS` , `SpringBoot`
 - **_Front-end_**: `ReactJS`, `NextJS`
@@ -28,9 +30,16 @@
 </details>
 
 <details>
+<summary style="margin-bottom: 10px;"><strong>Mobile</strong></summary>
+
+- `Flutter` , `Android Native (xml)`
+
+</details>
+
+<details>
 <summary style="margin-bottom: 10px;"><strong>Database</strong></summary>
 
-- `MongoDB` (fav) , `SQL Server` , `MySQL` , `PostgreSQL`
+- `MongoDB - (fav)` , `SQL Server` , `MySQL` , `PostgreSQL`
 
 </details>
 
@@ -53,7 +62,7 @@
 <details>
 <summary style="margin-bottom: 10px;"><strong>My Editors</strong></summary>
 
-- `VS Code` (fav) , `NeoVim` , `WebStorm` , `IntelliJ`
+- `VS Code - (fav)` , `NeoVim` , `WebStorm` , `IntelliJ`
 
 </details>
 
