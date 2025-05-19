@@ -1,6 +1,6 @@
 ## hi, i'm Chung
 
-> **Back-End Developer (Internship)**
+> **NodeJS Developer**
 
 - Looking for a Web `Back-End` intern position.
 - Final-year student at **`FPT University - Hanoi Campus`**
