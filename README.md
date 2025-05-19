@@ -5,7 +5,7 @@
 - Looking for a Web `Back-End` intern position.
 - Final-year student at **`FPT University - Hanoi Campus`**
 - Hardworking, strong in teamwork, and excellent at time management.
-- Meet my CV: [Chung Doan Thanh](https://chungdt03.vercel.app/)
+- Meet my CV: [Chung Doan Thanh](https://dnthchung.github.io/myCV/)
   
 ---
 
