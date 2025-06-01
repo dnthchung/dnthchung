@@ -4,7 +4,7 @@
 
 - Final-year student at **`FPT University - Hanoi Campus`**
 - Hardworking, strong in teamwork, and excellent at time management.
-- Meet my CV: [Chung Doan Thanh](https://dnthchung.github.io/myCV/)
+<!--- Meet my CV: [Chung Doan Thanh](https://dnthchung.github.io/myCV/) --->
   
 ---
 
