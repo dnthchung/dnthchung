@@ -1,6 +1,6 @@
 ## hi, i'm Chung
 
-> **NodeJS Developer**
+> **JS Developer**
 
 - Final-year student at **`FPT University - Hanoi Campus`**
 - Hardworking, strong in teamwork, and excellent at time management.
@@ -23,8 +23,8 @@
 <details>
 <summary style="margin-bottom: 10px;"><strong>Web - Frameworks / Libraries</strong></summary>
 
-- **_Back-end_**: `NestJS` , `ExpressJS` , `SpringBoot`
-- **_Front-end_**: `ReactJS`, `NextJS`
+- **_Back-end_**: `NestJS`, `ExpressJS`.
+- **_Front-end_**: `ReactJS`, `AngularJS`, `NextJS`.
 
 </details>
 
@@ -38,7 +38,7 @@
 <details>
 <summary style="margin-bottom: 10px;"><strong>Database</strong></summary>
 
-- `MongoDB - (fav)` , `SQL Server` , `MySQL` , `PostgreSQL`
+- `MongoDB` , `SQL Server`, `PostgreSQL`
 
 </details>
 
