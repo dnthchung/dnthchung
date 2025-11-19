@@ -13,27 +13,25 @@
 <details>
 <summary style="margin-bottom: 10px;"><strong>Programming Languages / Knowledge</strong></summary>
 
-- `Java` , `Kotlin - basic`
+- `Java`, `Dart`
 - `JavaScript` , `TypeScript`
-- `Dart`
-- `Go - basic`
 
 </details>
 
 <details>
 <summary style="margin-bottom: 10px;"><strong>Web - Frameworks / Libraries</strong></summary>
 
-- **_Back-end_**: `NestJS`, `ExpressJS`.
+- **_Back-end_**: `ExpressJS`, `NestJS`.
 - **_Front-end_**: `ReactJS`, `AngularJS`, `NextJS`.
 
 </details>
 
-<details>
+<!-- <details>
 <summary style="margin-bottom: 10px;"><strong>Mobile</strong></summary>
 
 - `Flutter` , `Android Native (xml)`
 
-</details>
+</details> -->
 
 <details>
 <summary style="margin-bottom: 10px;"><strong>Database</strong></summary>
@@ -42,28 +40,28 @@
 
 </details>
 
-<details>
+<!-- <details>
 <summary style="margin-bottom: 10px;"><strong>Testing</strong></summary>
 
 - `Jest`
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary style="margin-bottom: 10px;"><strong>Other Technical Skills</strong></summary>
 
 - `Git`
 - `Figma` , `Adobe XD`
 - `Agile` , `Scrum`
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary style="margin-bottom: 10px;"><strong>My Editors</strong></summary>
 
 - `VS Code - (fav)` , `NeoVim` , `WebStorm` , `IntelliJ`
 
-</details>
+</details> -->
 
 <!-- ### 🚀 Projects
 - [**E-Commerce API**](https://github.com/your-project-link): A scalable REST API for an online store using **NestJS** and **MongoDB**.
