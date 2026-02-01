@@ -1,7 +1,8 @@
 ## hi, i'm Chung
 
-> **Back-end Developer**
+> **Software Engineer**
 
+- On a journey to become a Software Engineer.
 - Bachelor of Software Engineering at **`FPT University - Hanoi Campus`**
 - Hardworking, strong in teamwork, and excellent at time management.
 - **`100%`** Scholarship
