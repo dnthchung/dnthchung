@@ -1,93 +1,30 @@
 ## hi, i'm Chung
 
-> **JS Developer**
+> **Back-end Developer**
 
-- Final-year student at **`FPT University - Hanoi Campus`**
+- Bachelor of Software Engineering at **`FPT University - Hanoi Campus`**
 - Hardworking, strong in teamwork, and excellent at time management.
-<!--- Meet my CV: [Chung Doan Thanh](https://dnthchung.github.io/myCV/) --->
-  
----
+- **`100%`** Scholarship
+- **`TOEIC 750` | `JLPT N4`**
+- Awarded capstone project scholarship by Denso Vietnam [source](https://www.facebook.com/photo/?fbid=1116264387198490&set=pcb.1116286847196244)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Skills
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Technical Skills
 
-<details>
-<summary style="margin-bottom: 10px;"><strong>Programming Languages / Knowledge</strong></summary>
-
-- `Java`, `Dart`
-- `JavaScript` , `TypeScript`
-
-</details>
-
-<details>
-<summary style="margin-bottom: 10px;"><strong>Web - Frameworks / Libraries</strong></summary>
-
-- **_Back-end_**: `ExpressJS`, `NestJS`.
-- **_Front-end_**: `ReactJS`, `AngularJS`, `NextJS`.
-
-</details>
-
-<!-- <details>
-<summary style="margin-bottom: 10px;"><strong>Mobile</strong></summary>
-
-- `Flutter` , `Android Native (xml)`
-
-</details> -->
-
-<details>
-<summary style="margin-bottom: 10px;"><strong>Database</strong></summary>
-
-- `MongoDB` , `SQL Server`, `PostgreSQL`
-
-</details>
-
-<!-- <details>
-<summary style="margin-bottom: 10px;"><strong>Testing</strong></summary>
-
-- `Jest`
-
-</details> -->
-
-<!-- <details>
-<summary style="margin-bottom: 10px;"><strong>Other Technical Skills</strong></summary>
-
-- `Git`
-- `Figma` , `Adobe XD`
-- `Agile` , `Scrum`
-
-</details> -->
-
-<!-- <details>
-<summary style="margin-bottom: 10px;"><strong>My Editors</strong></summary>
-
-- `VS Code - (fav)` , `NeoVim` , `WebStorm` , `IntelliJ`
-
-</details> -->
-
-<!-- ### 🚀 Projects
-- [**E-Commerce API**](https://github.com/your-project-link): A scalable REST API for an online store using **NestJS** and **MongoDB**.
-- [**Personal Portfolio**](https://yourportfolio.com): Built with **ReactJS** and **NextJS**, featuring dynamic content and responsive design. -->
-
----
+| Category           | Tools & Technologies                            |
+| :----------------- | :---------------------------------------------- |
+| **Languages**      | Java, JavaScript (TS)                           |
+| **Back-End**       | Spring Framework, ExpressJS, NestJS             |
+| **Front-End**      | ReactJS, Angular                                |
+| **ORM / ODM**      | JPA & Hibernate, Prisma                         |
+| **Architecture**   | Microservices, Event-Driven, Clean Architecture |
+| **Messaging**      | Kafka, RabbitMQ                                 |
+| **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, GCP(GKE)    |
+| **Database**       | MySQL, PostgreSQL, MongoDB, Redis               |
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Find Me At:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/goilachun)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chunchunnnnnnnn/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanchungnb/)
-
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@chunchu_d/featured)
 
-<!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> About Me:
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> I’m currently a uni student.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Learning everything, but currently interested in Web.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" /> And looking for learning and work opportunities too.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" /> My CV: [DoanChung_CV](https://dnthchung.github.io/myCV/). -->
-
-<!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=react,nestjs,nextjs,express,spring,docker,kotlin,ts)](https://skillicons.dev) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnthchung&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-
-<!-- [![](https://visitcount.itsvg.in/api?id=dnthchung&icon=0&color=8)](https://visitcount.itsvg.in) -->
+![alt text](506398412_1116264390531823_6681673860101823328_n.jpg)
