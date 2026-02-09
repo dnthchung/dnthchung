@@ -15,12 +15,25 @@
 | :----------------- | :---------------------------------------------- |
 | **Languages**      | Java, JavaScript (TS)                           |
 | **Back-End**       | Spring Framework, ExpressJS, NestJS             |
+| **Front-End**      | ReactJS, Angular, NextJS                        |
+| **ORM / ODM**      | JPA & Hibernate, Prisma                         |
+| **Architecture**   | Multi-module, Monolithic, Microservices         |
+| **Messaging**      | RabbitMQ                                        |
+| **DevOps & Cloud** | Docker, GitHub Actions                          |
+| **Database**       | PostgreSQL, MongoDB, Redis                      |
+
+<!--
+| Category           | Tools & Technologies                            |
+| :----------------- | :---------------------------------------------- |
+| **Languages**      | Java, JavaScript (TS)                           |
+| **Back-End**       | Spring Framework, ExpressJS, NestJS             |
 | **Front-End**      | ReactJS, Angular                                |
 | **ORM / ODM**      | JPA & Hibernate, Prisma                         |
 | **Architecture**   | Microservices, Event-Driven, Clean Architecture |
 | **Messaging**      | Kafka, RabbitMQ                                 |
 | **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, GCP(GKE)    |
 | **Database**       | MySQL, PostgreSQL, MongoDB, Redis               |
+-->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Find Me At:
 
