@@ -9,7 +9,7 @@
 - **`TOEIC 750` | `JLPT N4`**
 - Awarded capstone project scholarship by Denso Vietnam [source](https://www.facebook.com/photo/?fbid=1116264387198490&set=pcb.1116286847196244)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Technical Skills
+### Technical Skills
 
 | Category           | Tools & Technologies                            |
 | :----------------- | :---------------------------------------------- |
@@ -35,7 +35,7 @@
 | **Database**       | MySQL, PostgreSQL, MongoDB, Redis               |
 -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Find Me At:
+### Find Me At:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chunchunnnnnnnn/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanchungnb/)
