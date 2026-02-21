@@ -4,7 +4,6 @@
 
 - On a journey to become a Software Engineer.
 - Bachelor of Software Engineering at **`FPT University - Hanoi Campus`**
-- Hardworking, strong in teamwork, and excellent at time management.
 - **`100%`** Scholarship
 - **`TOEIC 750` | `JLPT N4`**
 - Awarded capstone project scholarship by Denso Vietnam [source](https://www.facebook.com/photo/?fbid=1116264387198490&set=pcb.1116286847196244)
