@@ -10,16 +10,16 @@
 
 ### Technical Skills
 
-| Category           | Tools & Technologies                            |
-| :----------------- | :---------------------------------------------- |
-| **Languages**      | Java, JavaScript (TS)                           |
-| **Back-End**       | Spring Framework, ExpressJS, NestJS             |
-| **Front-End**      | ReactJS, Angular, NextJS                        |
-| **ORM / ODM**      | JPA & Hibernate, Prisma                         |
-| **Architecture**   | Multi-module, Monolithic, Microservices         |
-| **Messaging**      | RabbitMQ                                        |
-| **DevOps & Cloud** | Docker, GitHub Actions                          |
-| **Database**       | PostgreSQL, MongoDB, Redis                      |
+| Category           | Tools & Technologies                    |
+| :----------------- | :-------------------------------------- |
+| **Languages**      | JavaScript (TS), java                   |
+| **Back-End**       | ExpressJS, NestJS, Spring Framework     |
+| **Front-End**      | ReactJS, Angular, NextJS                |
+| **ORM / ODM**      | JPA & Hibernate, Prisma, TypeORM        |
+| **Architecture**   | Multi-module, Monolithic, Microservices |
+| **Messaging**      | RabbitMQ, BullMQ                        |
+| **DevOps & Cloud** | Docker, GitHub Actions, GCP             |
+| **Database**       | PostgreSQL, MongoDB, Redis              |
 
 <!--
 | Category           | Tools & Technologies                            |
@@ -36,8 +36,10 @@
 
 ### Find Me At:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chunchunnnnnnnn/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chungdoan.55/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanchungnb/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@chunchu_d/featured)
 
-![alt text](506398412_1116264390531823_6681673860101823328_n.jpg)
+![hoc bong denso](hoc_bong_denso.jpg)
+
+![HB Lab team building 08/2025](hb1_hblab_teambuilding_082025.webp)
